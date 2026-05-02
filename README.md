@@ -67,25 +67,25 @@
     </a>
     <div align="left">
       <a
-        href="https://github-readme-stats.vercel.app/api/top-langs?username=SolidLamp&layout=compact&show_icons=true&theme=catppuccin_mocha"
+        href="https://github-readme-stats-fast.vercel.app/api/top-langs?username=SolidLamp&layout=compact&show_icons=true&theme=transparent"
         align="left"
       >
         <img
           align="center"
           height="100%"
           width="40%"
-          src="https://github-readme-stats.vercel.app/api/top-langs?username=SolidLamp&layout=compact&show_icons=true&theme=transparent"
+          src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=SolidLamp&layout=compact&show_icons=true&theme=transparent"
           alt="Language Stats"
         /> </a
       ><a
-        href="https://github-readme-stats.vercel.app/api?username=SolidLamp&show_icons=true&theme=catppuccin_mocha"
+        href="https://github-readme-stats-fast.vercel.app/api?username=SolidLamp&show_icons=true&theme=transparent"
         align="left"
       >
         <img
           align="center"
           height="100%"
           width="55%"
-          src="https://github-readme-stats.vercel.app/api?username=SolidLamp&show_icons=true&theme=transparent"
+          src="https://github-readme-stats-fast.vercel.app/api?username=SolidLamp&show_icons=true&theme=transparent"
           alt="Commit Stats"
         />
       </a>
