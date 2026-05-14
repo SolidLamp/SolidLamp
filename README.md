@@ -47,6 +47,12 @@
   />
   <img width="12" />
   <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+    height="30"
+    alt="typescript logo"
+  />
+  <img width="12" />
+  <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
     height="30"
     alt="bash logo"
@@ -67,14 +73,14 @@
     </a>
     <div align="left">
       <a
-        href="https://github-readme-stats-fast.vercel.app/api/top-langs?username=SolidLamp&layout=compact&show_icons=true&theme=transparent"
+        href="https://github-readme-stats-fast.vercel.app/api/top-langs?username=SolidLamp&layout=compact&show_icons=true&theme=transparent&langs_count=8"
         align="left"
       >
         <img
           align="center"
           height="100%"
           width="40%"
-          src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=SolidLamp&layout=compact&show_icons=true&theme=transparent"
+          src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=SolidLamp&layout=compact&show_icons=true&theme=transparent&langs_count=8"
           alt="Language Stats"
         /> </a
       ><a
