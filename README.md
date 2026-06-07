@@ -15,6 +15,11 @@
   />
 </div>
 <div align="right">
+  <a href="https://addons.mozilla.org/en-GB/firefox/user/17984072/"><img
+    src="https://img.shields.io/static/v1?message=Firefox%20Addons&logo=linkedin&label=&color=FF662B&logoColor=white&labelColor=&style=for-the-badge"
+    height="35"
+    alt="linkedin logo"
+  /></a>
   <img
     src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
     height="35"
@@ -41,15 +46,21 @@
   />
   <img width="12" />
   <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+    height="30"
+    alt="typescript logo"
+  />
+  <img width="12" />
+  <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
     height="30"
     alt="javascript logo"
   />
   <img width="12" />
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
     height="30"
-    alt="typescript logo"
+    alt="css logo"
   />
   <img width="12" />
   <img
@@ -73,14 +84,14 @@
     </a>
     <div align="left">
       <a
-        href="https://github-readme-stats-fast.vercel.app/api/top-langs?username=SolidLamp&layout=compact&show_icons=true&theme=transparent&langs_count=8"
+        href="https://github-readme-stats-fast.vercel.app/api/top-langs?username=SolidLamp&layout=compact&show_icons=true&theme=transparent&langs_count=10"
         align="left"
       >
         <img
           align="center"
           height="100%"
           width="40%"
-          src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=SolidLamp&layout=compact&show_icons=true&theme=transparent&langs_count=8"
+          src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=SolidLamp&layout=compact&show_icons=true&theme=transparent&langs_count=10"
           alt="Language Stats"
         /> </a
       ><a
