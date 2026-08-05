@@ -84,28 +84,29 @@
     </a>
     <div align="left">
       <a
-        href="https://github-readme-stats-fast.vercel.app/api/top-langs?username=SolidLamp&layout=compact&show_icons=true&theme=transparent&langs_count=10"
-        align="left"
-      >
-        <img
-          align="center"
-          height="100%"
-          width="40%"
-          src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=SolidLamp&layout=compact&show_icons=true&theme=transparent&langs_count=10"
-          alt="Language Stats"
-        /> </a
-      ><a
-        href="https://github-readme-stats-fast.vercel.app/api?username=SolidLamp&show_icons=true&theme=transparent"
+        href="https://github-stats-extended.vercel.app/api?username=SolidLamp&show_icons=true&theme=transparent"
         align="left"
       >
         <img
           align="center"
           height="100%"
           width="55%"
-          src="https://github-readme-stats-fast.vercel.app/api?username=SolidLamp&show_icons=true&theme=transparent"
+          src="https://github-stats-extended.vercel.app/api?username=SolidLamp&show_icons=true&theme=transparent"
           alt="Commit Stats"
         />
       </a>
+      <a
+        href="https://github-stats-extended.vercel.app/api/top-langs?username=SolidLamp&layout=compact&hide_title=true&langs_count=8&theme=transparent"
+        align="left"
+      >
+        <img
+          align="center"
+          height="100%"
+          width="40%"
+          src="https://github-stats-extended.vercel.app/api/top-langs?username=SolidLamp&layout=compact&hide_title=true&langs_count=8&theme=transparent"
+          alt="Language Stats"
+        /> </a
+      >
     </div>
   </div>
 </div>
