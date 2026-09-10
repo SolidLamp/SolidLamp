@@ -18,18 +18,13 @@
   <a href="https://addons.mozilla.org/en-GB/firefox/user/17984072/"><img
     src="https://img.shields.io/static/v1?message=Firefox%20Addons&logo=linkedin&label=&color=FF662B&logoColor=white&labelColor=&style=for-the-badge"
     height="35"
-    alt="linkedin logo"
+    alt="mozilla addons logo"
   /></a>
-  <img
-    src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
-    height="35"
-    alt="linkedin logo"
-  />
-  <img
+  <a href="https://solidlamp.itch.io/"><img
     src="https://img.shields.io/static/v1?message=itch.io&logo=itch&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge"
     height="35"
     alt="itch logo"
-  />
+  /></a>
 </div>
 
 <div align="right">
